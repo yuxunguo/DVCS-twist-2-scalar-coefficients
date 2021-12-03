@@ -15,6 +15,6 @@ The notebook should be quite self-explanatory itself. The general steps needed t
 
    - For the ones without light cone vectors, besides form factors and fine structure constant, the expressions will be functions of proton mass M, Beam energy loss parameter y, Bjorken vaiables xB, momentum transfer t and photon virtuality Q which are given by the kinematics. Thus, those expression are ready to use themselves.
    
-   - For the ones with light cone vectors, besides the quantities above they include the skewness parameter xi and our two parameters alpha and beta that control the direction of light cone vectors, so explicit substitutions of xi (\[xi]sub) and alpha and beta are required as well which are shown in the code as well.
+   - For the ones with light cone vectors, besides the quantities above they include the skewness parameter xi and our two parameters alpha and beta that control the direction of light cone vectors, so explicit substitutions of xi (\[xi]sub) and alpha and beta are required as well which are shown in the code.
 
 
