@@ -17,4 +17,4 @@ The notebook should be quite self-explanatory itself. The general steps needed t
    
    - For the ones with light cone vectors, besides the quantities above they include the skewness parameter xi and our two parameters alpha and beta that control the direction of light cone vectors, so explicit substitutions of xi (\[xi]sub) and alpha and beta are required as well which are shown in the code.
 
-See more examples in Chap 4 where the numeric results of scalar coefficients and cross-sections are presents.
+See more examples in Chap 4 where the numeric results of scalar coefficients and cross-sections are presented.
